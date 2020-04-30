@@ -5,6 +5,6 @@ airwatchgone=$(/usr/bin/profiles -P)
 
 if [ "$airwatchgone" == "There are no configuration profiles installed" ]; then echo "Airwatch Uninstalled"
 
-else echo "AirWAatch still installed"
+else echo "AirWatch still installed"
 
 fi
